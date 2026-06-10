@@ -31,7 +31,7 @@ This repository implements an inverse problem framework to solve 2D image deblur
 * `deblurring_final.py`: Core optimization engine containing data loaders, operator chains, custom ISTA/FISTA loops, and visual benchmarking charts.
 * `chateau.npy`: Grayscale image data matrix representing a castle used to benchmark regularized restoration algorithms.
 * `dog_rgb.npy`: Grenscale image data matrix representing a dog used to benchmark regularized restoration algorithms.
-* `report_deblurring_final.pdf`: Report detailing the complete mathematical proofs, objective function analysis, and algorithmic performance evaluations (in French).
+* `report_deblurring_final.pdf`: Report detailing the complete mathematical proofs, objective function analysis, and algorithmic performance evaluations.
 
 ---
 
